@@ -3,6 +3,8 @@
 Páginas públicas dos apps Elementare.
 
 - Arrows: [Política de Privacidade](arrows/privacy-policy.html)
+- Color Path: [Política de Privacidade](colorpath/privacy-policy.html)
+- Ball Sort: [Política de Privacidade](colorsort/privacy-policy.html)
 
 ## app-ads.txt
 
