@@ -9,7 +9,7 @@ Políticas específicas (legado):
 - Arrows: [Política de Privacidade](arrows/privacy-policy.html)
 - Color Path: [Política de Privacidade](colorpath/privacy-policy.html)
 - Ball Sort: [Política de Privacidade](colorsort/privacy-policy.html)
-- Frases para Status: [Política de Privacidade](frasesstatus/privacy-policy.html)
+- Frases para Status: [URL antiga](frasesstatus/privacy-policy.html) redireciona para a política única.
 
 ## app-ads.txt
 
