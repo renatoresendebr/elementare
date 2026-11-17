@@ -2,7 +2,7 @@
 
 Páginas públicas dos apps Elementare.
 
-- **Todos os apps: [Política de Privacidade](privacy-policy.html)** (PT/EN/ES) — política única, use esta URL nas novas publicações da Play Console.
+- **Todos os apps: [Política de Privacidade](https://elementaretecnologia.com/privacidade/apps/)** (PT/EN/ES) — política única, use esta URL na Play Console. A URL antiga [privacy-policy.html](privacy-policy.html) redireciona para ela.
 
 Políticas específicas (legado):
 
