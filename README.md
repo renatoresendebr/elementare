@@ -4,12 +4,12 @@ Páginas públicas dos apps Elementare.
 
 - **Todos os apps: [Política de Privacidade](https://elementaretecnologia.com/privacidade/apps/)** (PT/EN/ES) — política única, use esta URL na Play Console. A URL antiga [privacy-policy.html](privacy-policy.html) redireciona para ela.
 
-Políticas específicas (legado):
+URLs antigas por app (Arrows, Color Path, Ball Sort e Frases para Status) redirecionam para a política única:
 
-- Arrows: [Política de Privacidade](arrows/privacy-policy.html)
-- Color Path: [Política de Privacidade](colorpath/privacy-policy.html)
-- Ball Sort: [Política de Privacidade](colorsort/privacy-policy.html)
-- Frases para Status: [URL antiga](frasesstatus/privacy-policy.html) redireciona para a política única.
+- [arrows/privacy-policy.html](arrows/privacy-policy.html)
+- [colorpath/privacy-policy.html](colorpath/privacy-policy.html)
+- [colorsort/privacy-policy.html](colorsort/privacy-policy.html)
+- [frasesstatus/privacy-policy.html](frasesstatus/privacy-policy.html)
 
 ## app-ads.txt
 
